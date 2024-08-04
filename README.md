@@ -1,6 +1,6 @@
 # attendance-system
 
-# MERN-task
+# React.js & Node.js - task
 
 ## Frontend
 - Built with React and Vite.
